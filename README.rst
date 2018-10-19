@@ -6,5 +6,4 @@ Anyone find this interesting can Contibute you are just a pr away.
  
  
  This is screenshot what it can perform right now it will be updated regularly .
-.. image:: https://raw.githubusercontent.com/hvijaycse/Dx/master/Capture.PNG
- 
+.. image:: https://raw.githubusercontent.com/hvijaycse/Dx/master/screenshot.PNG
