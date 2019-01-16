@@ -4,7 +4,7 @@ print("Please Read Documentation First")
 print("Lets get started \nEnter the integrating part  ")
 i=1
 j=0
-integrating=input()
+integrating=input("Enter your input")
 Total=integrating.split('+')
 for plus in Total:
     minuses=plus.split('-')
@@ -43,3 +43,4 @@ while i<len(final):
     final[i]=''.join(str(e) for e in final[i])
     i=i+1
 print(final)
+
